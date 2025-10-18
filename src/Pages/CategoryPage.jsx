@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import Tshirt from "../assets/tshirt.jpg"; 
+import Tshirt from "../assets/Tshirt.jpg"; 
 import { FaShoppingBag } from "react-icons/fa";
 
 const API = "https://e-commerce-backened-4fih.onrender.com/products";
